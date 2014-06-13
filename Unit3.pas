@@ -9,7 +9,8 @@ uses
 type
   TForm3 = class(TForm)
   private
-    { Private declarations }
+    { Priv
+    Memo1: TMemo;ate declarations }
   public
     { Public declarations }
   end;
