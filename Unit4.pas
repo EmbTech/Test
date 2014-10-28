@@ -10,9 +10,7 @@ type
   TForm4 = class(TForm)
   private
     { Private declarations }
-  public
-
-    Button1: TButton;   { Public declarations }
+  public   { Public declarations }
   end;
 
 var
