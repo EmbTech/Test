@@ -8,6 +8,7 @@ uses
 
 type
   TForm6 = class(TForm)
+    Button1: TButton;
   private
     { Private declarations }
   public
